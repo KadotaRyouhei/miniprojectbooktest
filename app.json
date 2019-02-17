@@ -1,5 +1,8 @@
 {
   "pages":[
+    "pages/swiper/swiper",
+    "pages/radio/radio",
+    "pages/travel/travel",
     "pages/calc/calc",
     "pages/button/button",
     "pages/calculate/calculate",
