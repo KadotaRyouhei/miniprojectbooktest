@@ -1,0 +1,12 @@
+<view class="container">
+<image src="../images/year_pig.jpg" mode='aspectFill'></image>
+<view class='content'>
+  <text>在这辞旧迎新之际，愿您和您的家人</text>
+  </view>
+<view class='content'>
+  <text>幸福美满，阖家团圆</text>
+  </view>
+  <view class='content'>
+  <text>春节快乐，猪年大吉</text>
+  </view>
+</view>

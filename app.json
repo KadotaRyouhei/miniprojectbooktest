@@ -1,12 +1,19 @@
 {
   "pages":[
+    "pages/calc/calc",
+    "pages/button/button",
+    "pages/calculate/calculate",
+    "pages/happy/happy",
+    "pages/wxfor/wxfor",
+    "pages/databind/databind",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
+    "enablePullDownRefresh": true,
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "恭贺新春",
     "navigationBarTextStyle":"black"
   }
 }

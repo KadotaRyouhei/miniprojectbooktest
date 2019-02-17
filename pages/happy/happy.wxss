@@ -1,0 +1,4 @@
+/* pages/happy/happy.wxss */
+.content{
+  margin: 20rpx;
+}
