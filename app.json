@@ -1,5 +1,9 @@
 {
   "pages":[
+    "pages/getweixin/getweixin",
+    "pages/audio/audio",
+    "pages/showtoast/showtoast",
+    "pages/loading/loading",
     "pages/swiper/swiper",
     "pages/radio/radio",
     "pages/travel/travel",
